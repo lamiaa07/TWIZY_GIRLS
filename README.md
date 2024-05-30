@@ -15,3 +15,4 @@ Il utilise diverses bibliothèques et classes pour permettre l'identification et
 - Nada NOURI
 - Khaoula CHAIB
 
+![alt tag](https://github.com/lamiaa07/TWIZY_GIRLS/assets/106020324/84272cbb-9dd7-49a8-bb7f-f96176ed9df0)
